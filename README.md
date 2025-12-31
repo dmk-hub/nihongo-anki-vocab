@@ -9,6 +9,9 @@ Automating the creation of Japanese Anki flashcards to save time and make vocabu
 
 # This is my vocabulary list
 ```text
-人    ひと    người
-学生  がくせい học sinh
-先生  せんせい thầy/cô giáo
+天気    てんき    Thời tiết    天気がいいです。    Thời tiết đẹp.    Thiên khí
+電話    でんわ    Điện thoại    電話をかけます。    Gọi điện thoại.    Điện thoại
+勉強    べんきょう    Học tập    日本語を勉強します。    Tôi học tiếng Nhật.    Miễn cưỡng
+会社    かいしゃ    Công ty    会社へ行きます。    Tôi đi đến công ty.    Hội xã
+学校    がっこう    Trường học    学校で勉強します。    Tôi học ở trường.    Học hiệu
+先生    せんせい    Thầy/cô giáo    先生に質問します。    Tôi hỏi thầy giáo.    Tiên sinh
