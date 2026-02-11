@@ -54,5 +54,14 @@ Go to: [Google AI Studio](https://aistudio.google.com/app/apikey)
 ## 1.3 Save the API Key
 ⚠️ **IMPORTANT**: Do not share your API key with anyone!
 
+# 💻 Step 2: Set Up the API Key
+
+## Windows (PowerShell – Permanent)
+```powershell
+# Open PowerShell as Administrator
+[System.Environment]::SetEnvironmentVariable('GEMINI_API_KEY', 'your-api-key-here', 'User')
+
+# Restart PowerShell to apply
+
 
 
