@@ -2,16 +2,40 @@
 
 This project was inspired by **nihongo‑anki‑gen**.  
 
-When using Anki, I often face the problem of having too many vocabulary items, making it impossible to add them manually. As a learner preparing for the JLPT exam, I am busy with deadlines and do not have much time to study Japanese. The most effective way for me to learn is through vocabulary with example sentences and Han‑Viet readings. Therefore, I created this project to automate the process of learning Japanese vocabulary.
+When learning Japanese, I often face the problem of having too much vocabulary to memorize. As a learner preparing for the JLPT exam, I am busy with deadlines and do not have much time to add words manually into Anki. The most effective way for me to study is through vocabulary with example sentences and Han‑Viet readings. Therefore, I created this project to automate the process of learning Japanese vocabulary.
 
 **The Goal**  
 Automating the creation of Japanese Anki flashcards to save time and make vocabulary learning more effective.
 
 # This is my vocabulary list
 ```text
-天気    てんき    Thời tiết    天気がいいです。    Thời tiết đẹp.    Thiên khí
-電話    でんわ    Điện thoại    電話をかけます。    Gọi điện thoại.    Điện thoại
-勉強    べんきょう    Học tập    日本語を勉強します。    Tôi học tiếng Nhật.    Miễn cưỡng
-会社    かいしゃ    Công ty    会社へ行きます。    Tôi đi đến công ty.    Hội xã
-学校    がっこう    Trường học    学校で勉強します。    Tôi học ở trường.    Học hiệu
-先生    せんせい    Thầy/cô giáo    先生に質問します。    Tôi hỏi thầy giáo.    Tiên sinh
+Word,Kana,Meaning,Example,ExampleTrans,HanViet
+アルバイト,arubaito,"việc làm thêm",,,
+パート,paato,"việc làm thêm",,,
+産業,sangyou,"sản nghiệp",,,
+工業,kougyou,"công nghiệp",,,
+技術,gijutsu,"kỹ thuật",,,
+法律,houritsu,"luật",,,
+貿易,boueki,"giao dịch, thương mại",,,
+翻訳,honyaku,"dịch",,,
+運転手,untenshu,"tài xế",,,
+駅員,ekiin,"nhân viên nhà ga",,,
+看護師,kangoshi,"y tá",,,
+警察,keisatsu,"cảnh sát",,,
+公務員,koumuin,"viên chức",,,
+新聞社,shinbunsha,"tòa soạn báo",,,
+習慣,shuukan,"thói quen, phong tục",,,
+アニメ,anime,"anime, phim hoạt hình kiểu Nhật",,,
+漫画,manga,"manga, truyện tranh kiểu Nhật",,,
+ゲーム,geemu,"game",,,
+バイオリン,baiorin,"violin",,,
+ロック,rokku,"nhạc rock",,,
+水泳,suiei,"bơi lội",,,
+泳ぎ方,oyogikata,"cách bơi",,,
+見物,kenbutsu,"tham quan",,,
+柔道,juudou,"võ Judo",,,
+小説,shousetsu,"tiểu thuyết",,,
+番組,bangumi,"chương trình tivi, kênh",,,
+遊び,asobi,"trò chơi",,,
+踊り,odori,"nhảy múa",,,
+
