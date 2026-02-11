@@ -56,19 +56,23 @@ Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
 
 # 💻 Step 2: Set Up the API Key
 
-## Windows (PowerShell – Permanent)
+## Windows Powershell
 ```powershell
 # Open PowerShell as Administrator
 [System.Environment]::SetEnvironmentVariable('GEMINI_API_KEY', 'your-api-key-here', 'User')
 # Restart PowerShell to apply
 
-macOS / Linux
+source ~/.bashrc   # or source ~/.zshrc
+```
+##macOS / Linux
+```powershell
 # Add the API key to your shell config
 export GEMINI_API_KEY="your-api-key-here"
 
 # To make it permanent, add the line above to ~/.bashrc (for Bash) or ~/.zshrc (for Zsh)
 echo 'export GEMINI_API_KEY="your-api-key-here"' >> ~/.bashrc   # or ~/.zshrc
 source ~/.bashrc   # or source ~/.zshrc
+```
 
 
 
