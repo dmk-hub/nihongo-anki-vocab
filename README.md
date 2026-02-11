@@ -40,5 +40,6 @@ Automating the creation of Japanese Anki flashcards to save time and make vocabu
 | 遊び      | asobi    | trò chơi                         |         |              |         |
 | 踊り      | odori    | nhảy múa                         |         |              |         |
 
+🔑 **Step 1**: Get a Gemini API Key
 
 
