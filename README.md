@@ -62,8 +62,16 @@ Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
 ```
 ## macOS / Linux
 ```powershell
-# Add the API key to your shell config
 export GEMINI_API_KEY="your-api-key-here"
+```
+### ✅ Verify API Key
+## Windows (cmd)
+```powershell
+echo %GEMINI_API_KEY%
+```
+## macOS / Linux
+```powershell
+echo $GEMINI_API_KEY
 ```
 
 
