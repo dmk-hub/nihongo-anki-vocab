@@ -64,7 +64,7 @@ Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
 ```bash
 export GEMINI_API_KEY="your-api-key-here"
 ```
-### ✅ Verify API Key
+# ✅ Verify API Key
 ## Windows (cmd)
 ```cmd
 echo %GEMINI_API_KEY%
