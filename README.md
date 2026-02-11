@@ -73,7 +73,7 @@ echo %GEMINI_API_KEY%
 ```bash
 echo $GEMINI_API_KEY
 ```
-#📦 Step 3: Install Dependencies
+# 📦 Step 3: Install Dependencies
 ## Windows && Linux / macOS
 ```powershell
   pip install requests
