@@ -61,16 +61,16 @@ Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
 [System.Environment]::SetEnvironmentVariable('GEMINI_API_KEY', 'your-api-key-here', 'User')
 ```
 ## macOS / Linux
-```powershell
+```bash
 export GEMINI_API_KEY="your-api-key-here"
 ```
 ### ✅ Verify API Key
 ## Windows (cmd)
-```powershell
+```cmd
 echo %GEMINI_API_KEY%
 ```
 ## macOS / Linux
-```powershell
+```bash
 echo $GEMINI_API_KEY
 ```
 
