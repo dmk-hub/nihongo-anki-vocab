@@ -78,6 +78,17 @@ echo $GEMINI_API_KEY
 ```powershell
   pip install requests
 ```
+# 🚀 Step 4: Usage
+## Use Arguments
+```powershell
+# With AI generation
+python gemini_anki_generator.py my_vocab.csv --ai
+
+# Without AI
+python gemini_anki_generator.py my_vocab.csv
+```
+# 📝 CSV Input Format
+## Recommended Header
 
 
 
