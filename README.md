@@ -43,7 +43,7 @@ Automating the creation of Japanese Anki flashcards to save time and make vocabu
 # 🔑 Step 1: Get a Gemini API Key
 
 ## 1.1 Access Google AI Studio
-Go to: [Google AI Studio](https://aistudio.google.com/app/apikey)
+Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
 
 ## 1.2 Create an API Key
 - Log in with your Google Account  
@@ -60,8 +60,17 @@ Go to: [Google AI Studio](https://aistudio.google.com/app/apikey)
 ```powershell
 # Open PowerShell as Administrator
 [System.Environment]::SetEnvironmentVariable('GEMINI_API_KEY', 'your-api-key-here', 'User')
-
 # Restart PowerShell to apply
+
+macOS / Linux
+# Add the API key to your shell config
+export GEMINI_API_KEY="your-api-key-here"
+
+# To make it permanent, add the line above to ~/.bashrc (for Bash) or ~/.zshrc (for Zsh)
+echo 'export GEMINI_API_KEY="your-api-key-here"' >> ~/.bashrc   # or ~/.zshrc
+source ~/.bashrc   # or source ~/.zshrc
+
+
 
 
 
