@@ -41,5 +41,16 @@ Automating the creation of Japanese Anki flashcards to save time and make vocabu
 | 踊り      | odori    | nhảy múa                         |         |              |         |
 
 🔑 **Step 1**: Get a Gemini API Key
+1.1. Access Google AI Studio
+Go to: https://aistudio.google.com/app/apikey
+
+1.2. Create an API Key
+Log in with your Google Account
+Click Get API key
+Click Create API key
+Copy the API key (format: AIzaSy...)
+
+1.3. Save the API Key
+⚠️ **IMPORTANT**: Do not share your API key with anyone!
 
 
