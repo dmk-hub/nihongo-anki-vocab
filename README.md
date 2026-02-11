@@ -7,35 +7,38 @@ When learning Japanese, I often face the problem of having too much vocabulary t
 **The Goal**  
 Automating the creation of Japanese Anki flashcards to save time and make vocabulary learning more effective.
 
-# This is my vocabulary list
-```text
-Word,Kana,Meaning,Example,ExampleTrans,HanViet
-アルバイト,arubaito,"việc làm thêm",,,
-パート,paato,"việc làm thêm",,,
-産業,sangyou,"sản nghiệp",,,
-工業,kougyou,"công nghiệp",,,
-技術,gijutsu,"kỹ thuật",,,
-法律,houritsu,"luật",,,
-貿易,boueki,"giao dịch, thương mại",,,
-翻訳,honyaku,"dịch",,,
-運転手,untenshu,"tài xế",,,
-駅員,ekiin,"nhân viên nhà ga",,,
-看護師,kangoshi,"y tá",,,
-警察,keisatsu,"cảnh sát",,,
-公務員,koumuin,"viên chức",,,
-新聞社,shinbunsha,"tòa soạn báo",,,
-習慣,shuukan,"thói quen, phong tục",,,
-アニメ,anime,"anime, phim hoạt hình kiểu Nhật",,,
-漫画,manga,"manga, truyện tranh kiểu Nhật",,,
-ゲーム,geemu,"game",,,
-バイオリン,baiorin,"violin",,,
-ロック,rokku,"nhạc rock",,,
-水泳,suiei,"bơi lội",,,
-泳ぎ方,oyogikata,"cách bơi",,,
-見物,kenbutsu,"tham quan",,,
-柔道,juudou,"võ Judo",,,
-小説,shousetsu,"tiểu thuyết",,,
-番組,bangumi,"chương trình tivi, kênh",,,
-遊び,asobi,"trò chơi",,,
-踊り,odori,"nhảy múa",,,
+# Japanese Vocabulary List
+
+| Word     | Kana     | Meaning                          | Example | ExampleTrans | HanViet |
+|----------|----------|----------------------------------|---------|--------------|---------|
+| アルバイト | arubaito | việc làm thêm                    |         |              |         |
+| パート     | paato    | việc làm thêm                    |         |              |         |
+| 産業      | sangyou  | sản nghiệp                       |         |              |         |
+| 工業      | kougyou  | công nghiệp                      |         |              |         |
+| 技術      | gijutsu  | kỹ thuật                         |         |              |         |
+| 法律      | houritsu | luật                             |         |              |         |
+| 貿易      | boueki   | giao dịch, thương mại            |         |              |         |
+| 翻訳      | honyaku  | dịch                             |         |              |         |
+| 運転手    | untenshu | tài xế                           |         |              |         |
+| 駅員      | ekiin    | nhân viên nhà ga                 |         |              |         |
+| 看護師    | kangoshi | y tá                             |         |              |         |
+| 警察      | keisatsu | cảnh sát                         |         |              |         |
+| 公務員    | koumuin  | viên chức                        |         |              |         |
+| 新聞社    | shinbunsha | tòa soạn báo                   |         |              |         |
+| 習慣      | shuukan  | thói quen, phong tục             |         |              |         |
+| アニメ    | anime    | anime, phim hoạt hình kiểu Nhật  |         |              |         |
+| 漫画      | manga    | manga, truyện tranh kiểu Nhật    |         |              |         |
+| ゲーム    | geemu    | game                             |         |              |         |
+| バイオリン | baiorin  | violin                           |         |              |         |
+| ロック    | rokku    | nhạc rock                        |         |              |         |
+| 水泳      | suiei    | bơi lội                          |         |              |         |
+| 泳ぎ方    | oyogikata | cách bơi                        |         |              |         |
+| 見物      | kenbutsu | tham quan                        |         |              |         |
+| 柔道      | juudou   | võ Judo                          |         |              |         |
+| 小説      | shousetsu | tiểu thuyết                     |         |              |         |
+| 番組      | bangumi  | chương trình tivi, kênh          |         |              |         |
+| 遊び      | asobi    | trò chơi                         |         |              |         |
+| 踊り      | odori    | nhảy múa                         |         |              |         |
+
+
 
