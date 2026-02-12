@@ -89,6 +89,29 @@ python gemini_anki_generator.py my_vocab.csv
 ```
 # 📝 CSV Input Format
 ## Recommended Header
+```powershell
+Word,Kana,Meaning,Example,ExampleTrans,HanViet,JLPT Level
+天気,てんき,Weather,,,Thiên khí,N5
+勉強,べんきょう,Study,,,Miễn cưỡng,N5
+Word,Kana,Meaning,Example,ExampleTrans,HanViet,JLPT Level
+天気,てんき,Weather,,,Thiên khí,N5
+勉強,べんきょう,Study,,,Miễn cưỡng,N5
+```
+# 🎯 Workflow with AI
+```powershell
+1. Create CSV with vocabulary (Word, Kana, Meaning)
+   ↓
+2. Run script with --ai flag
+   ↓
+3. AI generates:
+   - Japanese example sentence
+   - Vietnamese translation
+   - Sino-Vietnamese reading
+   ↓
+4. Export to CSV and JSON
+   ↓
+5. Import into Anki
+```
 
 
 
