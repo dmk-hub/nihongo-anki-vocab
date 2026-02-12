@@ -112,6 +112,25 @@ Word,Kana,Meaning,Example,ExampleTrans,HanViet,JLPT Level
    ↓
 5. Import into Anki
 ```
+# 💡 Tips & Tricks
+## Test with a few words first
+```powershell
+python gemini_anki_generator.py test_vocab.csv --ai --test
+```
+# ⚙️ Notes 
+
+## Large Batch Processing
+If your vocabulary file has more than 50 words, the AI may take extra time. Be patient!
+
+## Rate Limits
+The Gemini API enforces usage limits. If errors occur, wait a few minutes and retry.
+
+## Save API Calls
+Use AI only for words that don’t already have examples, to reduce unnecessary API usage.
+
+## Check Results
+Review the generated JSON file to ensure the AI output is correct.
+
 
 
 
