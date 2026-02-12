@@ -1,0 +1,254 @@
+[
+  {
+    "word": "アルバイト",
+    "kana": "arubaito",
+    "meaning": "việc làm thêm",
+    "example": "私はアルバイトをしています。",
+    "example_trans": "Tôi đang làm việc làm thêm.",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "パート",
+    "kana": "paato",
+    "meaning": "việc làm thêm",
+    "example": "デパートでパートをしています。",
+    "example_trans": "Tôi đang làm việc làm thêm ở cửa hàng bách hóa.",
+    "hanviet": "Không có (Đây là từ mượn từ tiếng Anh, viết bằng Katakana).",
+    "jlpt_level": ""
+  },
+  {
+    "word": "産業",
+    "kana": "sangyou",
+    "meaning": "sản nghiệp",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "工業",
+    "kana": "kougyou",
+    "meaning": "công nghiệp",
+    "example": "ここは工業の町です。",
+    "example_trans": "Đây là thành phố công nghiệp.",
+    "hanviet": "Công nghiệp",
+    "jlpt_level": ""
+  },
+  {
+    "word": "技術",
+    "kana": "gijutsu",
+    "meaning": "kỹ thuật",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "法律",
+    "kana": "houritsu",
+    "meaning": "luật",
+    "example": "法律は大切です。",
+    "example_trans": "Luật pháp quan trọng.",
+    "hanviet": "Pháp luật",
+    "jlpt_level": ""
+  },
+  {
+    "word": "貿易",
+    "kana": "boueki",
+    "meaning": "giao dịch, thương mại",
+    "example": "日本は貿易が多いです。",
+    "example_trans": "Nhật Bản có nhiều giao dịch.",
+    "hanviet": "Mậu dịch",
+    "jlpt_level": ""
+  },
+  {
+    "word": "翻訳",
+    "kana": "honyaku",
+    "meaning": "dịch",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "運転手",
+    "kana": "untenshu",
+    "meaning": "tài xế",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "駅員",
+    "kana": "ekiin",
+    "meaning": "nhân viên nhà ga",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "看護師",
+    "kana": "kangoshi",
+    "meaning": "y tá",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "警察",
+    "kana": "keisatsu",
+    "meaning": "cảnh sát",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "公務員",
+    "kana": "koumuin",
+    "meaning": "viên chức",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "新聞社",
+    "kana": "shinbunsha",
+    "meaning": "tòa soạn báo",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "習慣",
+    "kana": "shuukan",
+    "meaning": "thói quen, phong tục",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "アニメ",
+    "kana": "anime",
+    "meaning": "anime, phim hoạt hình kiểu Nhật",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "漫画",
+    "kana": "manga",
+    "meaning": "manga, truyện tranh kiểu Nhật",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "ゲーム",
+    "kana": "geemu",
+    "meaning": "game",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "バイオリン",
+    "kana": "baiorin",
+    "meaning": "violin",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "ロック",
+    "kana": "rokku",
+    "meaning": "nhạc rock",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "水泳",
+    "kana": "suiei",
+    "meaning": "bơi lội",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "泳ぎ方",
+    "kana": "oyogikata",
+    "meaning": "cách bơi",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "見物",
+    "kana": "kenbutsu",
+    "meaning": "tham quan",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "柔道",
+    "kana": "juudou",
+    "meaning": "võ Judo",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "小説",
+    "kana": "shousetsu",
+    "meaning": "tiểu thuyết",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "番組",
+    "kana": "bangumi",
+    "meaning": "chương trình tivi, kênh",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "遊び",
+    "kana": "asobi",
+    "meaning": "trò chơi",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  },
+  {
+    "word": "踊り",
+    "kana": "odori",
+    "meaning": "nhảy múa",
+    "example": "",
+    "example_trans": "",
+    "hanviet": "",
+    "jlpt_level": ""
+  }
+]
