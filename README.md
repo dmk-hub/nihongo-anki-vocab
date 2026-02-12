@@ -74,6 +74,28 @@ echo %GEMINI_API_KEY%
 echo $GEMINI_API_KEY
 ```
 # 📦 Step 3: Install Dependencies
+## 🔧 Before Installing Dependencies: Set Up a Virtual Environment
+To keep your project isolated and avoid conflicts with system-wide Python packages, you should always create and activate a virtual environment first.
+## Windows
+```powershell
+# 1. Create a virtual environment named "venv"
+python -m venv venv
+
+# 2. Activate the virtual environment
+venv\Scripts\activate
+
+# 3. Verify activation (your prompt should show (venv))
+```
+## Linux / macOS
+```bash
+# 1. Create a virtual environment named "venv"
+python3 -m venv venv
+
+# 2. Activate the virtual environment
+source venv/bin/activate
+
+# 3. Verify activation (your prompt should show (venv))
+```
 ## Windows && Linux / macOS
 ```powershell
   pip install requests
