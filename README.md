@@ -131,6 +131,16 @@ Use AI only for words that don’t already have examples, to reduce unnecessary 
 ## Check Results
 Review the generated JSON file to ensure the AI output is correct.
 
+# 🐛 Troubleshooting
+
+## Common Issues
+
+- ❌ **GEMINI_API_KEY not found** → API key not set  
+- ❌ **API request error** → Internet issue, invalid key, or rate limit exceeded  
+- ❌ **Error parsing API response** → AI returned invalid JSON  
+- ⚠️ **AI generation failed** → Timeout or invalid response
+
+
 
 
 
