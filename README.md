@@ -40,7 +40,7 @@ Automating the creation of Japanese Anki flashcards to save time and make vocabu
 | 遊び      | asobi    | trò chơi                         |         |              |         |
 | 踊り      | odori    | nhảy múa                         |         |              |         |
 
-# 🔑 Step 1: Get a Gemini API Key
+#  Step 1: Get a Gemini API Key
 
 ## 1.1 Access Google AI Studio
 Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
@@ -52,9 +52,9 @@ Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
 - Copy the API key (format: `AIzaSy...`)
 
 ## 1.3 Save the API Key
-⚠️ **IMPORTANT**: Do not share your API key with anyone!
+ **IMPORTANT**: Do not share your API key with anyone!
 
-# 💻 Step 2: Set Up the API Key
+#  Step 2: Set Up the API Key
 
 ## Windows Powershell
 ```powershell
@@ -64,7 +64,7 @@ Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
 ```bash
 export GEMINI_API_KEY="your-api-key-here"
 ```
-# ✅ Verify API Key
+# Verify API Key
 ## Windows (cmd)
 ```cmd
 echo %GEMINI_API_KEY%
@@ -73,8 +73,8 @@ echo %GEMINI_API_KEY%
 ```bash
 echo $GEMINI_API_KEY
 ```
-# 📦 Step 3: Install Dependencies
-## 🔧 Before Installing Dependencies: Set Up a Virtual Environment
+#  Step 3: Install Dependencies
+##  Before Installing Dependencies: Set Up a Virtual Environment
 To keep your project isolated and avoid conflicts with system-wide Python packages, you should always create and activate a virtual environment first.
 ## Windows
 ```powershell
@@ -100,7 +100,7 @@ source venv/bin/activate
 ```powershell
   pip install requests
 ```
-# 🚀 Step 4: Usage
+#  Step 4: Usage
 ## Use Arguments
 ```powershell
 # With AI generation
@@ -109,7 +109,7 @@ python gemini_anki_generator.py my_vocab.csv --ai
 # Without AI
 python gemini_anki_generator.py my_vocab.csv
 ```
-# 📝 CSV Input Format
+#  CSV Input Format
 ## Recommended Header
 ```powershell
 Word,Kana,Meaning,Example,ExampleTrans,HanViet,JLPT Level
@@ -119,7 +119,7 @@ Word,Kana,Meaning,Example,ExampleTrans,HanViet,JLPT Level
 天気,てんき,Weather,,,Thiên khí,N5
 勉強,べんきょう,Study,,,Miễn cưỡng,N5
 ```
-# 🎯 Workflow with AI
+#  Workflow with AI
 ```powershell
 1. Create CSV with vocabulary (Word, Kana, Meaning)
    ↓
@@ -134,12 +134,12 @@ Word,Kana,Meaning,Example,ExampleTrans,HanViet,JLPT Level
    ↓
 5. Import into Anki
 ```
-# 💡 Tips & Tricks
+#  Tips & Tricks
 ## Test with a few words first
 ```powershell
 python gemini_anki_generator.py test_vocab.csv --ai --test
 ```
-# ⚙️ Notes 
+#  Notes 
 
 ## Large Batch Processing
 If your vocabulary file has more than 50 words, the AI may take extra time. Be patient!
@@ -153,7 +153,7 @@ Use AI only for words that don’t already have examples, to reduce unnecessary 
 ## Check Results
 Review the generated JSON file to ensure the AI output is correct.
 
-# 🐛 Troubleshooting
+#  Troubleshooting
 
 ## Common Issues
 
